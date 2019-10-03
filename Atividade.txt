@@ -1,0 +1,32 @@
+LINGUAGEM DE SCRIPTS PARA WEB
+ATIVIDADE PRÁTICA E DE PESQUISA
+Individual ou em duplas
+	
+Objetivo
+
+Construir um pequeno site informativo dinâmico de Internet usando apenas linguagens de front-end que será publicado na Internet, usando o serviço "GitHub Pages".
+
+Requisitos
+
+O site deve abordar preferencialmente um assunto ou tema social e atender pelo menos aos seguintes requisitos:
+
+	• Usar conceitos de "One-Page-Application";
+	• Não se preocupe agora com o conteúdo (textos e imagens), use "Lorem Ipsum";
+	• Não se preocupe agora com o layout. Use um modelo simples e básico;
+	• Usar recursos como banco de dados e outros serviços "back-end", do Firebase;	
+	• Deve ter as seguintes páginas / seções:
+		• HOME - Página inicial com blocos de destaque para as outras seções;
+		• ARTIGOS - Seção de artigos sobre o tema do site:
+			• Os artigos são armazenados no banco de dados;
+			• A página inicial dos artigos lista um resumo de todos eles;
+				• Devem ser listados os mais recentes primeiro;
+			• Ao clicar em um artigo listado na página de artigos ele será exibido na íntegra;
+		• CONTATOS - Um formulário de contatos simples que salva os contatos no banco de dados;
+		• SOBRE - Uma seção informativa com o seguinte conteúdo:
+			• SOBRE O SITE - Informações sobre o assunto abordado, como e porque o site foi feito;
+			• SOBRE O AUTOR - Informações sobre você;
+			• POLÍTICAS DE PRIVACIDADE - Informações sobre como as informações dos usuários são armazenadas com segurança.
+			
+Informações
+
+	Pesquise na documentação dos frameworks e plataformas, além da Internet, sobre as melhores práticas para uso desses recursos para implantá-los no produto final.
