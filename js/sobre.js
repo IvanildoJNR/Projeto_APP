@@ -4,11 +4,10 @@
 $('header').slideUp('fast');
 
 
-function myFunction() {
-    var div = document.getElementById("myDIV");
-    if (myDiv.style.display === "none") {
-      myDiv.style.display = "block";
-    } else {
-      myDiv.style.display = "none";
-    }
-  }
+function Mudarestado(el) {
+  var display = document.getElementById(el).style.display;
+  if(display == "block")
+      document.getElementById(el).style.display = 'none';
+  else
+      document.getElementById(el).style.display = 'block';
+}
